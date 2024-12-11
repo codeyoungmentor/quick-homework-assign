@@ -1,0 +1,871 @@
+{
+    "success": 1,
+    "numberOfExercise": 247,
+    "collectionName": "Exercises-ML",
+    "data": [
+        {
+            "id": "JQfHAzQ7JhsC",
+            "name": "Session 02 - Revision on Seaborn & Plots ",
+            "type": "catalogue",
+            "description": "Revision on Seaborn & Plots ",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1724608792003--2.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 6,
+                "completed": 0
+            },
+            "lastOpenedAt": "1 day ago",
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "rHG-ph7-Ng25",
+            "name": " Session 21 - Project Building Session 3",
+            "type": "catalogue",
+            "description": "Project Building Session 3",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1726201098912--21.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 4,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "bKY82_X0o6PI",
+            "name": " Session 23 -  SVM Regression ",
+            "type": "catalogue",
+            "description": "SVM Regression ",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1726122566435--23.jpeg",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 6,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "2O0JFrDq5Kca",
+            "name": " Session 26 -  XGBoost Regressor",
+            "type": "catalogue",
+            "description": "XGBoost Regressor",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1728498396764--26.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 6,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "5m_kI_TOEe0s",
+            "name": " Session : 17 Mini project - 2",
+            "type": "catalogue",
+            "description": "Mini project - 2",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1724952092750--17.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 4,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "IF45_B2ukG7r",
+            "name": " SESSION: 09 Supervised Learning : Logistic Regression",
+            "type": "catalogue",
+            "description": "Supervised Learning : Logistic Regression",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1724733749918--9.jpeg",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 6,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "pV8GuPQWaiEl",
+            "name": " SESSION: 16Project Building Session 2",
+            "type": "catalogue",
+            "description": "Project Building Session 2",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1724952080637--16.jpeg",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 4,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "0VUrH4uO7BPu",
+            "name": " SESSION: 18 Unsupervised Learning : PCA",
+            "type": "catalogue",
+            "description": "Unsupervised Learning : PCA",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1725951851368--18.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 6,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "59jXQnDu7q_g",
+            "name": "Session  29 - Underfitting in ML",
+            "type": "catalogue",
+            "description": "Underfitting in ML",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1726734833263--29.jpeg",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 6,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "BxibnPIiPqve",
+            "name": "Session 01- Revision on Pandas",
+            "type": "catalogue",
+            "description": "Exercises for Pandas",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1724608748046--1.png",
+            "isPublished": 1,
+            "courses": "1259",
+            "exercises": {
+                "total": 6,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "GDCghsm26yZm",
+            "name": "Session 03 - Revision Of Statistics",
+            "type": "catalogue",
+            "description": "Revision Of Statistics",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1724608822407--3.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 6,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "N2xYIvtPUm5k",
+            "name": "Session 04 - Revision of Probability.",
+            "type": "catalogue",
+            "description": "Revision of Probability.",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1724608850235--4.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 6,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "puCcJXkQyTMV",
+            "name": "Session 05 - Problem Solving Session - I",
+            "type": "catalogue",
+            "description": "Problem Solving Session - I",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1724608896077--5.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 5,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "xAZU_kJDF7sY",
+            "name": "SESSION 07 - Introduction to Machine Learning",
+            "type": "catalogue",
+            "description": "Introduction to Machine Learning",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1724733818477--71.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 6,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "hyjuUC4-y_yP",
+            "name": "Session 12 - Supervised Learning : Decision Trees",
+            "type": "catalogue",
+            "description": "Supervised Learning : Decision Trees",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1724820389064--12.jpeg",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 6,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "IKU4bmRcWttK",
+            "name": "Session 13 - SUPERVISED LEARNING : RANDOM FOREST",
+            "type": "catalogue",
+            "description": "SUPERVISED LEARNING : RANDOM FOREST",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1724820401064--13.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 6,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "WGb-6lWwoPve",
+            "name": "Session 20 - Assessment - 2",
+            "type": "catalogue",
+            "description": "Assessment - 2",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1725960472973--20.jpeg",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 4,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "zuCdq3-zf9P3",
+            "name": "Session 22 -  SVM Classifier",
+            "type": "catalogue",
+            "description": " SVM Classifier",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1726122549755--22.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 6,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "oT6lReTlk_f0",
+            "name": "Session 24 -  Problem solving Session 2",
+            "type": "catalogue",
+            "description": "Problem solving Session 2",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1726201004414--24.jpeg",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 5,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "6gy-GCNWjQK2",
+            "name": "Session 27 -  XGBoost Classifier",
+            "type": "catalogue",
+            "description": "XGBoost Classifier",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1726477078407--27.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 6,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "_i5BwlcrBE-p",
+            "name": "Session 28 -  Overfitting in ML",
+            "type": "catalogue",
+            "description": "Overfitting in ML",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1726734774228--28.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 6,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "MLsF-A0j5E2v",
+            "name": "Session 30 - Assessment-3",
+            "type": "catalogue",
+            "description": "Assessment-3",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1726734951239--3oo.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 4,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "R3tan-039Y_J",
+            "name": "Session 31 - Major project ",
+            "type": "catalogue",
+            "description": "Major project ",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1726735016540--31.jpeg",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 4,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "B0S-zMnN0ctm",
+            "name": "Session 32 - Enhancing Major project ",
+            "type": "catalogue",
+            "description": "Enhancing Major project ",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1726819246188--32.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 4,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "smvni2ct4PpY",
+            "name": "Session 33 - Hyperparameter Tuning SVM",
+            "type": "catalogue",
+            "description": "Hyperparameter Tuning SVM",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1727067238442--33.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 6,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "26As_JYhU3sP",
+            "name": "Session 34 - Lasso Regression",
+            "type": "catalogue",
+            "description": "Lasso Regression",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1727677423191--34.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 6,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "B0t0frTGqKA_",
+            "name": "Session 35 - Ridge Regression",
+            "type": "catalogue",
+            "description": "Ridge Regression",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1727677440299--35.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 6,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "BXi1OOj_fFcG",
+            "name": "Session 36 - ML Model Parameters",
+            "type": "catalogue",
+            "description": "ML Model Parameters",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1727677494722--361.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 6,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "OkjfzqTIs3D6",
+            "name": "Session 37 -Project Buiding Session 4",
+            "type": "catalogue",
+            "description": "Project Buiding Session 4",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1727677511555--37.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 4,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "sTFQcouHz2NI",
+            "name": "Session 38 - Mini project - 4",
+            "type": "catalogue",
+            "description": "Mini project - 4",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1727677625470--38.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 4,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "IL_Hvw9dS6WJ",
+            "name": "Session 39 - Recommendation Systems",
+            "type": "catalogue",
+            "description": "Recommendation Systems",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1728322577263--39.jpeg",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 6,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "c69W64m7Ztbj",
+            "name": "Session 40 - TFIDF Vectorizer",
+            "type": "catalogue",
+            "description": "TFIDF Vectorizer",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1728322593640--40.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 6,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "Wb2xL-zKz6ac",
+            "name": "Session 41 - Ensemble Models",
+            "type": "catalogue",
+            "description": "Ensemble Models",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1728498261639--41.jpg",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 6,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "X4jBYrObmv3M",
+            "name": "Session 42 - Project Building Session 5",
+            "type": "catalogue",
+            "description": "Project Building Session 5",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1728498277559--42.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 4,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "IknimEHNEAnv",
+            "name": "Session 43 - Project Building Session 6 ",
+            "type": "catalogue",
+            "description": "Project Building Session 6 ",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1728498332171--443.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 4,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "2WMnI_zszwhz",
+            "name": "Session 44 - Project Building Session 7",
+            "type": "catalogue",
+            "description": "Project Building Session 7",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1729225389072--44.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 4,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "bRzy0cXil5dF",
+            "name": "Session 45 - Mini project - 5",
+            "type": "catalogue",
+            "description": "Mini project - 5",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1729225412636--455.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 4,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "rj5VwEbqGMvz",
+            "name": "Session 46 - Assessment-4",
+            "type": "catalogue",
+            "description": "Assessment-4",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1729225433103--4.jpeg",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 4,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "YAdkQYM8Fl1n",
+            "name": "Session 47 - Final Project",
+            "type": "catalogue",
+            "description": "Final Project",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1729225456999--47.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 4,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "gLf3BGI-lhXE",
+            "name": "Session 48 - Final Project",
+            "type": "catalogue",
+            "description": "Final Project",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1729225470910--48.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 4,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "Q_SFPRUZAHDe",
+            "name": "Session : 25 Mini project - 3",
+            "type": "catalogue",
+            "description": "Mini project - 3",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1726735243079--25.jpeg",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 4,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "vomHO-gauIet",
+            "name": "SESSION: 06 Assessment - I",
+            "type": "catalogue",
+            "description": "Assessment - I",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1724608925436--download.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 4,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "1xr7NUTC4KgD",
+            "name": "SESSION: 08 Supervised Learning : Linear Regression",
+            "type": "catalogue",
+            "description": "Supervised Learning : Linear Regression",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1724733733727--8.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 6,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "yF-n2UJCuslV",
+            "name": "SESSION: 10 Project Building Session 1",
+            "type": "catalogue",
+            "description": " Project Building Session 1",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1726201152935--10.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 5,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "5gt2uMkwdUb5",
+            "name": "SESSION: 11 Mini project - 1",
+            "type": "catalogue",
+            "description": " Mini project - 1",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1724820375657--11.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 4,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "LOznxtNkDjfv",
+            "name": "SESSION: 14 SUPERVISED LEARNING : MODEL EVALUATION",
+            "type": "catalogue",
+            "description": "SUPERVISED LEARNING : MODEL EVALUATION",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1724867893798--14.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 6,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "vKwfnQLrPtiE",
+            "name": "SESSION: 15 SUPERVISED LEARNING : KNN",
+            "type": "catalogue",
+            "description": "SUPERVISED LEARNING : KNN",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1724867908836--15.png",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 6,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        },
+        {
+            "id": "3l7eiuErGfyt",
+            "name": "SESSION: 19 Unsupervised Learning : Clustering",
+            "type": "catalogue",
+            "description": "Unsupervised Learning : Clustering",
+            "isPaid": 1,
+            "icon": "https://cy-assets.s3.ap-south-1.amazonaws.com/exercises/icons/manual/1725951930580--19.jpeg",
+            "isPublished": 1,
+            "courses": "1244",
+            "exercises": {
+                "total": 6,
+                "completed": 0
+            },
+            "lastOpenedAt": null,
+            "accessType": "locked",
+            "newlyAssigned": null,
+            "unlocked": null
+        }
+    ]
+}
