@@ -11,25 +11,17 @@ const ExerciseCards = () => {
   });
 
   return (
-    <div className="exercise-card-container flex flex-row">
+    <div className="exercise-card-container flex flex-wrap">
       {sortedData.map((session) => (
         <div
           key={session.id}
-          className="exercise-card p-2 border-2 border-black rounded-md w-1/12 flex-wrap"
+          className="exercise-card p-2 border-2 border-black rounded-md w-1/6"
         >
-    
-          <h3>{session.name}</h3>
-          <p>{session.description}</p>
-          <p>
-            <strong>Exercises:</strong> {session.exercises.completed}/
-            {session.exercises.total}
-          </p>
-         
           <a
             target="_blank"
             href={`https://sandbox.codeyoung.com/#/exercises/${session.id}`}
           >
-            Open
+            <img className="w-full" src={session.icon} alt="" />
           </a>
         </div>
       ))}

@@ -8,7 +8,9 @@ function App() {
 
   return (
   <div>
-    <ExerciseCards/>
+    <div className='w-1/3'>
+      <ExerciseCards/>
+    </div>
   </div>
   )
 }
